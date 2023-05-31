@@ -3,8 +3,8 @@
 
 
 mencari jejak digital social media dan situs yang pernah di kunjungin    
-
-#phone number
+# OSINT DATA
+#nomor hp
 #pdf
 #nik
 #gmail
@@ -13,3 +13,8 @@ mencari jejak digital social media dan situs yang pernah di kunjungin
 #http
 #html
 #ip lookup
+
+
+
+ 
+INGET YA   LIAT LAH DALEM NYA BUKAN LUAR NYA
