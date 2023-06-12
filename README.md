@@ -2,7 +2,7 @@
 
 
 
-mencari jejak digital social media dan situs yang pernah di kunjungin    
+mencari jejak digital social media    
 # OSINT DATA
 - nomor hp
 - pdf
